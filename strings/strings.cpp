@@ -283,9 +283,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	// Print copyright header
 	if( flagHeader )
 	{
-		printf("Strings2 v1.3\n");
-		printf("  Copyright © 2016, Geoff McDonald\n");
-		printf("  http://www.split-code.com/\n\n");
 	}
 
 	if( flagHelp )
